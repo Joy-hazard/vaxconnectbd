@@ -1,13 +1,10 @@
 import React from 'react';
 import { Container, Card, Row, Col, Button } from 'react-bootstrap';
-import Header from '../components/WHeader';
-import WHeader from '../components/WHeader';
 
 const Home = () => {
   return (
     
     <div>
-        <WHeader />
         <Container className="mt-5">
       <Card className="text-center bg-light p-5">
         <h1>Welcome to vaXconnect Bangladesh</h1>
