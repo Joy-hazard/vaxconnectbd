@@ -36,3 +36,18 @@
     transform: rotate(360deg);
   }
 }
+.chat-window {
+  background-color: #f1f1f1;
+  padding: 10px;
+  height: 200px;
+  overflow-y: auto;
+  margin-bottom: 10px;
+}
+.bot-message {
+  text-align: left;
+  color: blue;
+}
+.user-message {
+  text-align: right;
+  color: green;
+}
