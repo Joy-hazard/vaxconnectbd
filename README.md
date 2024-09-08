@@ -7,25 +7,31 @@
 ## Features
 
 - **Home Page**: Offers general information about vaccines and diseases.
-  ![Home Page](docs/screenshots/home-page.png)
+  ![Home Page](docs/screenshots/home-page.jpeg)
+
+- **Login**:
+  ![Login Page](docs/screenshots/Login.jpeg)
+
+- **Registration**: 
+  ![Registration](docs/screenshots/Register.jpeg)
 
 - **Disease and Vaccine Information**: Provides detailed information on various diseases and recommended vaccines.
-  ![Disease and Vaccine Information](docs/screenshots/disease-vaccine-info.png)
+  ![Disease and Vaccine Information](docs/screenshots/disease-vaccine-info.jpeg)
 
 - **Vaccine Registration**: Allows users to register for vaccines, choose preferred hospitals, and submit their application.
-  ![Vaccine Registration](docs/screenshots/vaccine-registration.png)
+  ![Vaccine Registration](docs/screenshots/vaccine-registration.jpeg)
 
 - **Registration Status**: Users can check their vaccine registration status and track doses.
-  ![Registration Status](docs/screenshots/registration-status.png)
+  ![Registration Status](docs/screenshots/registration-status.jpeg)
 
 - **Certification and Card Maker**: Generates vaccination certificates and cards.
-  ![Certification and Card Maker](docs/screenshots/certification-card-maker.png)
+  ![Certification and Card Maker](docs/screenshots/certification-card-maker.jpeg)
 
 - **Notifications**: Displays updates and important information.
-  ![Notifications](docs/screenshots/notifications.png)
+  ![Notifications](docs/screenshots/notifications.jpeg)
 
 - **Chatbot**: Provides real-time assistance and answers to user queries.
-  ![Chatbot](docs/screenshots/chatbot.png)
+  ![Chatbot](docs/screenshots/chatbot.jpeg)
 
 ---
 
