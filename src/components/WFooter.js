@@ -10,6 +10,8 @@ const WFooter = () => {
       display: 'flex',
       flexDirection: 'column',
       minHeight: '100vh', // Ensure the container takes the full height of the viewport
+      minWidth: '100%',
+
     }}>
       {/* Main content of the webpage */}
       <div style={{ flex: '1' }}>

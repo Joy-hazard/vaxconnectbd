@@ -31,6 +31,7 @@ const WHeader = () => {
       <Navbar.Collapse id="basic-navbar-nav">
         <Nav style={{ marginLeft: 'auto' }}>
           <Nav.Link href="/" style={navStyle}>Home</Nav.Link>
+          <Nav.Link href="/disease-vaccine-info" style={navStyle}>Diseases & Vaccines</Nav.Link>
           <Nav.Link href="/apply" style={navStyle}>Apply</Nav.Link>
           <Nav.Link href="/status" style={navStyle}>Status</Nav.Link>
           <Nav.Link href="/certificate" style={navStyle}>Certificates</Nav.Link>

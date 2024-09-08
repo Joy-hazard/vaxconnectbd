@@ -8,6 +8,7 @@ import RegistrationStatus from './pages/RegistrationStatus';
 import VaccineCertificate from './pages/VaccineCertificate';
 import Login from './pages/Login';
 import Register from './pages/Register';
+import DiseaseVaccineInfo from './pages/DiseaseVaccineInfo';
 
 
 const App = () => {
@@ -17,6 +18,7 @@ const App = () => {
         {/* Routes that need Header, Footer, NotificationBox, and ChatBot */}
         <Route path="/" element={<MainLayout />}>
           <Route index element={<Home />} />
+          <Route path="/disease-vaccine-info" element={<DiseaseVaccineInfo />} />
           <Route path="/apply" element={<ApplyVaccine />} />
           <Route path="/status" element={<RegistrationStatus />} />
           <Route path="/certificate" element={<VaccineCertificate />} />
