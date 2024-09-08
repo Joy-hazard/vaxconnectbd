@@ -7,18 +7,25 @@
 ## Features
 
 - **Home Page**: Offers general information about vaccines and diseases.
+  ![Home Page](docs/screenshots/home-page.png)
 
 - **Disease and Vaccine Information**: Provides detailed information on various diseases and recommended vaccines.
+  ![Disease and Vaccine Information](docs/screenshots/disease-vaccine-info.png)
 
 - **Vaccine Registration**: Allows users to register for vaccines, choose preferred hospitals, and submit their application.
+  ![Vaccine Registration](docs/screenshots/vaccine-registration.png)
 
 - **Registration Status**: Users can check their vaccine registration status and track doses.
+  ![Registration Status](docs/screenshots/registration-status.png)
 
 - **Certification and Card Maker**: Generates vaccination certificates and cards.
+  ![Certification and Card Maker](docs/screenshots/certification-card-maker.png)
 
 - **Notifications**: Displays updates and important information.
+  ![Notifications](docs/screenshots/notifications.png)
 
 - **Chatbot**: Provides real-time assistance and answers to user queries.
+  ![Chatbot](docs/screenshots/chatbot.png)
 
 ---
 
